@@ -13,11 +13,13 @@ nav{
     
 }
 .banner-title{
-    font-size: 85px;
+    font-size: 40px;
     font-weight: 800;
+    width: 100%;
+     color: #181818;
 }
 .banner-greeting{
-    font-size: 45px;
+    font-size: 10px;
     font-weight: 600;
      
 }
@@ -179,3 +181,4 @@ nav ul li:hover{
     padding: 15px;
     border-radius: 5px;
     border: 1px solid #ccc;
+ }
